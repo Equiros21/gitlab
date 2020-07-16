@@ -2,10 +2,10 @@ Hostname: R2
 Interfaces: 
  GigabitEthernet0/0/0:
   ip address: 2.2.2.1
-  enabled: true
+  enabled: false
  GigabitEthernet0/0/1:
   ip address: 2.2.2.2
-  enabled: true
+  enabled: false
  GigabitEthernet0/0/2:
  ip address: 2.2.2.3
- enabled: true
+ enabled: false
